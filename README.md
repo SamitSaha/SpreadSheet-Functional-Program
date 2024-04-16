@@ -1,2 +1,3 @@
 # SpreadSheet Functional Program
  Functional Programming is a popular approach to software development. In Functional Programming, developers organize code into smaller functions, then combine those functions to build complex programs.  In this spreadsheet application project,  learn about parsing and evaluating mathematical expressions, implementing spreadsheet functions, handling cell references, and creating interactive web interfaces. See how to dynamically update the page based on user input.  This project will cover concepts like the map() method, find() method, parseInt(), the includes() method.
+![1](https://github.com/SamitSaha/SpreadSheet-Functional-Program/assets/72096509/f8fa242e-abbb-41aa-8de8-62fa68ffe8f8)
